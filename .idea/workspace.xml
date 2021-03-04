@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/leetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSNearLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSNearRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/ESExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/util/MainUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/leetCode_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pHMNDVbYKdwL9xR2klioTWYCKm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/szy.algorithmbasic" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/szy.algorithmbasic" />
+      <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SelectSort">
+    <configuration name="BSNearRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_01.BSNearRight" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_01.SelectSort" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.BSNearRight" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="" />
+      <created>1614835520325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614835520325</updated>
+      <workItem from="1614835521547" duration="19000" />
+      <workItem from="1614835547771" duration="2477000" />
+      <workItem from="1614839841329" duration="7467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="42" key="#Project_Structure" timestamp="1614839910015">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="42" key="#Project_Structure/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839910015" />
+    <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614839666727">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839666727" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1614848370116">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614848370116" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1614848370114">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614848370114" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1614848370113">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614848370113" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1614848370115">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614848370115" />
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom" timestamp="1614839879663">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839879663" />
+    <state width="1398" height="294" key="GridCell.Tab.1.center" timestamp="1614839879661">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839879661" />
+    <state width="1398" height="294" key="GridCell.Tab.1.left" timestamp="1614839879659">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839879659" />
+    <state width="1398" height="294" key="GridCell.Tab.1.right" timestamp="1614839879661">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839879661" />
+    <state x="208" y="42" key="SettingsEditor" timestamp="1614841939275">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="42" key="SettingsEditor/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614841939275" />
+    <state x="63" y="-1030" key="SettingsEditor/0.25.1440.875/-214.-1080.1920.1080@-214.-1080.1920.1080" timestamp="1614840330508" />
+  </component>
+</project>
