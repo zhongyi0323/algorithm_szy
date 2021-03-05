@@ -20,17 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/leetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSNearLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSNearRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/ESExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/util/MainUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/leetCode_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSAwesome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/szy.algorithmbasic" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -133,7 +125,7 @@
       <updated>1614835520325</updated>
       <workItem from="1614835521547" duration="19000" />
       <workItem from="1614835547771" duration="2477000" />
-      <workItem from="1614839841329" duration="7467000" />
+      <workItem from="1614839841329" duration="9974000" />
     </task>
     <servers />
   </component>
@@ -161,22 +153,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839666727" />
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1614848370116">
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1614854300175">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614848370116" />
-    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1614848370114">
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614854300174" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1614854300170">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614848370114" />
-    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1614848370113">
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614854300170" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1614854300168">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614848370113" />
-    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1614848370115">
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614854300168" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1614854300172">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614848370115" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614854300172" />
     <state width="1398" height="294" key="GridCell.Tab.1.bottom" timestamp="1614839879663">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
