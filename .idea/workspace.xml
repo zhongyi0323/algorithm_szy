@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSAwesome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSAwesome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/BSAwesome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSNearLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/BSNearLeft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSNearRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/BSNearRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/ESExist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/ESExist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/util/MainUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/util/MainUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/szy.algorithmbasic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/szy/algorithmbasic" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -61,7 +68,11 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="szy.algorithmbasic" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/szy/algorithmbasic" />
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic" />
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
@@ -153,6 +164,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839666727" />
+    <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1614925479272">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614925479272" />
     <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1614854300175">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

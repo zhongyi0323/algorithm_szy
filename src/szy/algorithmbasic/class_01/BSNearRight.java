@@ -1,7 +1,6 @@
 package szy.algorithmbasic.class_01;
 
 
-import sun.applet.Main;
 import szy.algorithmbasic.util.MainUtil;
 
 /**
