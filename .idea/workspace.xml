@@ -20,15 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_GetOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_KMcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_getMore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSAwesome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/BSAwesome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSNearLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/BSNearLeft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BSNearRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/BSNearRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/ESExist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/ESExist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/class_01/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_01/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy.algorithmbasic/util/MainUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/util/MainUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/addone/Method_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/countAndSay/Method_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/deleteDuplicates/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/deleteDuplicates/Method_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/lengthofLastWord/Method_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/maximumSubarray/Method_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BSNearLeft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BSNearRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/util/MainUtil.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +72,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/szy/algorithmbasic" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -77,7 +87,7 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectSort">
+  <component name="RunManager" selected="Application.Code_KMcode">
     <configuration name="BSNearRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -86,6 +96,45 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="szy.algorithmbasic.class_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code_GetOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code_GetOne" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code_KMcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code_KMcode" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code_getMore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code_getMore" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,21 +155,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code_KMcode" />
+        <item itemvalue="Application.Code_GetOne" />
+        <item itemvalue="Application.Code_getMore" />
         <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.BSNearRight" />
       </list>
@@ -137,6 +187,7 @@
       <workItem from="1614835521547" duration="19000" />
       <workItem from="1614835547771" duration="2477000" />
       <workItem from="1614839841329" duration="9974000" />
+      <workItem from="1614934154295" duration="5401000" />
     </task>
     <servers />
   </component>
@@ -160,50 +211,62 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="42" key="#Project_Structure/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839910015" />
-    <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614839666727">
+    <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614928119340">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839666727" />
+    <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614928119340" />
     <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1614925479272">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614925479272" />
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1614854300175">
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom" timestamp="1614995956316">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614854300174" />
-    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1614854300170">
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995956316" />
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631170" />
+    <state width="1398" height="192" key="GridCell.Tab.0.center" timestamp="1614995956313">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614854300170" />
-    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1614854300168">
+    <state width="1398" height="192" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995956313" />
+    <state width="1398" height="192" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631168" />
+    <state width="1398" height="192" key="GridCell.Tab.0.left" timestamp="1614995956312">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614854300168" />
-    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1614854300172">
+    <state width="1398" height="192" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995956312" />
+    <state width="1398" height="192" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631167" />
+    <state width="1398" height="192" key="GridCell.Tab.0.right" timestamp="1614995956315">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="206" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614854300172" />
-    <state width="1398" height="294" key="GridCell.Tab.1.bottom" timestamp="1614839879663">
+    <state width="1398" height="192" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995956315" />
+    <state width="1398" height="192" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631169" />
+    <state width="1398" height="237" key="GridCell.Tab.1.bottom" timestamp="1614936736544">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="294" key="GridCell.Tab.1.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839879663" />
-    <state width="1398" height="294" key="GridCell.Tab.1.center" timestamp="1614839879661">
+    <state width="1398" height="237" key="GridCell.Tab.1.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614936736544" />
+    <state width="1398" height="237" key="GridCell.Tab.1.center" timestamp="1614936736542">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="294" key="GridCell.Tab.1.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839879661" />
-    <state width="1398" height="294" key="GridCell.Tab.1.left" timestamp="1614839879659">
+    <state width="1398" height="237" key="GridCell.Tab.1.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614936736542" />
+    <state width="1398" height="237" key="GridCell.Tab.1.left" timestamp="1614936736541">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="294" key="GridCell.Tab.1.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839879659" />
-    <state width="1398" height="294" key="GridCell.Tab.1.right" timestamp="1614839879661">
+    <state width="1398" height="237" key="GridCell.Tab.1.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614936736541" />
+    <state width="1398" height="237" key="GridCell.Tab.1.right" timestamp="1614936736543">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="294" key="GridCell.Tab.1.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614839879661" />
-    <state x="208" y="42" key="SettingsEditor" timestamp="1614841939275">
+    <state width="1398" height="237" key="GridCell.Tab.1.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614936736543" />
+    <state x="208" y="42" key="SettingsEditor" timestamp="1614934210182">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="42" key="SettingsEditor/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614841939275" />
+    <state x="208" y="42" key="SettingsEditor/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614934210182" />
     <state x="63" y="-1030" key="SettingsEditor/0.25.1440.875/-214.-1080.1920.1080@-214.-1080.1920.1080" timestamp="1614840330508" />
+    <state x="194" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1614926667925">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="194" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614926667925" />
+    <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614995558247">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995558247" />
   </component>
 </project>
