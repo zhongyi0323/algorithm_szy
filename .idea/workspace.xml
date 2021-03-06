@@ -20,25 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_GetOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_KMcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_getMore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/util/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/util/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/addone/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/countAndSay/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/deleteDuplicates/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/deleteDuplicates/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/lengthofLastWord/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/maximumSubarray/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BSNearLeft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BSNearRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/util/MainUtil.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/szy/algorithmbasic" />
@@ -187,7 +174,7 @@
       <workItem from="1614835521547" duration="19000" />
       <workItem from="1614835547771" duration="2477000" />
       <workItem from="1614839841329" duration="9974000" />
-      <workItem from="1614934154295" duration="5401000" />
+      <workItem from="1614934154295" duration="8114000" />
     </task>
     <servers />
   </component>
@@ -219,25 +206,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614925479272" />
-    <state width="1398" height="192" key="GridCell.Tab.0.bottom" timestamp="1614995956316">
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom" timestamp="1614996240502">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995956316" />
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614996240502" />
     <state width="1398" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631170" />
-    <state width="1398" height="192" key="GridCell.Tab.0.center" timestamp="1614995956313">
+    <state width="1398" height="192" key="GridCell.Tab.0.center" timestamp="1614996240498">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995956313" />
+    <state width="1398" height="192" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614996240498" />
     <state width="1398" height="192" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631168" />
-    <state width="1398" height="192" key="GridCell.Tab.0.left" timestamp="1614995956312">
+    <state width="1398" height="192" key="GridCell.Tab.0.left" timestamp="1614996240495">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995956312" />
+    <state width="1398" height="192" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614996240495" />
     <state width="1398" height="192" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631167" />
-    <state width="1398" height="192" key="GridCell.Tab.0.right" timestamp="1614995956315">
+    <state width="1398" height="192" key="GridCell.Tab.0.right" timestamp="1614996240500">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995956315" />
+    <state width="1398" height="192" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614996240500" />
     <state width="1398" height="192" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631169" />
     <state width="1398" height="237" key="GridCell.Tab.1.bottom" timestamp="1614936736544">
       <screen x="0" y="0" width="1440" height="900" />
