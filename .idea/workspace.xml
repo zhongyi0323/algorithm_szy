@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/util/DoubleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/util/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,22 +68,7 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code_KMcode">
-    <configuration name="BSNearRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_01.BSNearRight" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.class_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DoubleListToStack">
     <configuration name="Code_GetOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code_GetOne" />
       <module name="leetCode" />
@@ -129,6 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DoubleListToStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_03.DoubleListToStack" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_01.SelectSort" />
       <module name="leetCode" />
@@ -155,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleListToStack" />
         <item itemvalue="Application.Code_KMcode" />
         <item itemvalue="Application.Code_GetOne" />
         <item itemvalue="Application.Code_getMore" />
         <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.BSNearRight" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +166,7 @@
       <workItem from="1614835521547" duration="19000" />
       <workItem from="1614835547771" duration="2477000" />
       <workItem from="1614839841329" duration="9974000" />
-      <workItem from="1614934154295" duration="8114000" />
+      <workItem from="1614934154295" duration="12049000" />
     </task>
     <servers />
   </component>
@@ -206,25 +198,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614925479272" />
-    <state width="1398" height="192" key="GridCell.Tab.0.bottom" timestamp="1614996240502">
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom" timestamp="1615084862422">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614996240502" />
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615084862422" />
     <state width="1398" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631170" />
-    <state width="1398" height="192" key="GridCell.Tab.0.center" timestamp="1614996240498">
+    <state width="1398" height="192" key="GridCell.Tab.0.center" timestamp="1615084862420">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614996240498" />
+    <state width="1398" height="192" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615084862420" />
     <state width="1398" height="192" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631168" />
-    <state width="1398" height="192" key="GridCell.Tab.0.left" timestamp="1614996240495">
+    <state width="1398" height="192" key="GridCell.Tab.0.left" timestamp="1615084862418">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614996240495" />
+    <state width="1398" height="192" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615084862418" />
     <state width="1398" height="192" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631167" />
-    <state width="1398" height="192" key="GridCell.Tab.0.right" timestamp="1614996240500">
+    <state width="1398" height="192" key="GridCell.Tab.0.right" timestamp="1615084862421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614996240500" />
+    <state width="1398" height="192" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615084862421" />
     <state width="1398" height="192" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614937631169" />
     <state width="1398" height="237" key="GridCell.Tab.1.bottom" timestamp="1614936736544">
       <screen x="0" y="0" width="1440" height="900" />
@@ -251,9 +243,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="194" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614926667925" />
-    <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614995558247">
+    <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615004171944">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1614995558247" />
+    <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615004171944" />
   </component>
 </project>
