@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/TwoStacksImplQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +71,7 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayToStack$MyQueue">
+  <component name="RunManager" selected="Application.TwoStacksImplQueue">
     <configuration name="ArrayToStack$MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_03.ArrayToStack$MyQueue" />
       <module name="leetCode" />
@@ -110,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code_getMore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code_getMore" />
+    <configuration name="DoubleListToStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_03.DoubleListToStack" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.class_02.*" />
+          <option name="PATTERN" value="szy.algorithmbasic.class_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleListToStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_03.DoubleListToStack" />
+    <configuration name="TwoStacksImplQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_03.TwoStacksImplQueue" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoStacksImplQueue" />
         <item itemvalue="Application.ArrayToStack$MyQueue" />
         <item itemvalue="Application.DoubleListToStack" />
         <item itemvalue="Application.Code_KMcode" />
         <item itemvalue="Application.Code_GetOne" />
-        <item itemvalue="Application.Code_getMore" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +169,7 @@
       <workItem from="1614835521547" duration="19000" />
       <workItem from="1614835547771" duration="2477000" />
       <workItem from="1614839841329" duration="9974000" />
-      <workItem from="1614934154295" duration="14876000" />
+      <workItem from="1614934154295" duration="16642000" />
     </task>
     <servers />
   </component>
