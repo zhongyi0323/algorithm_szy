@@ -81,7 +81,6 @@ public class DoubleListToStack<T> {
         }
     }
 
-
     public static class MyStack<T> {
         public DoubleEndsQueue<T> stack;
 
@@ -121,7 +120,6 @@ public class DoubleListToStack<T> {
             return queue.isEmpty();
         }
     }
-
 
     public static void main(String[] args) {
 

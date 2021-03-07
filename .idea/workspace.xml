@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="" />
+    <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/ArrayToStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/DoubleListToStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/DoubleListToStack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +71,20 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoubleListToStack">
+  <component name="RunManager" selected="Application.ArrayToStack$MyQueue">
+    <configuration name="ArrayToStack$MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_03.ArrayToStack$MyQueue" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code_GetOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code_GetOne" />
       <module name="leetCode" />
@@ -121,19 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_01.SelectSort" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.class_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -147,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayToStack$MyQueue" />
         <item itemvalue="Application.DoubleListToStack" />
         <item itemvalue="Application.Code_KMcode" />
         <item itemvalue="Application.Code_GetOne" />
         <item itemvalue="Application.Code_getMore" />
-        <item itemvalue="Application.SelectSort" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +169,7 @@
       <workItem from="1614835521547" duration="19000" />
       <workItem from="1614835547771" duration="2477000" />
       <workItem from="1614839841329" duration="9974000" />
-      <workItem from="1614934154295" duration="12049000" />
+      <workItem from="1614934154295" duration="13532000" />
     </task>
     <servers />
   </component>
