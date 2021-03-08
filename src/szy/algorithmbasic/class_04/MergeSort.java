@@ -43,4 +43,26 @@ public class MergeSort {
         }
     }
 
+    //非递归实现
+    public static void mergeSort2(int[] arr) {
+        if (arr == null || arr.length < 2) return;
+        int step = 1;//设置步长；
+        int n = arr.length;
+        while (step < n) {
+            int l = 0;//左边第一个索引
+            while (l < n) {
+                if (step >= n - l) break;//如果生的数不足step，可直接返回
+                int m = l + step - 1;//左侧最右侧位置的值
+                int r = m + Math.min(step, n - m + 1);//右侧边界值
+                merge(arr, l, m, r);
+            }
+            //防止溢出
+            if (n / 2 < step) {
+                break;
+            }
+            step <<= 1;
+        }
+
+    }
+
 }
