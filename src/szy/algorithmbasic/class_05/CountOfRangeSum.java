@@ -23,17 +23,25 @@ public class CountOfRangeSum {
         return leftNum + rightNum + merge(sums, l, mid, r, lower, upper);
     }
 
+    /**
+     * 处理数据接口
+     * @param sums
+     * @param l
+     * @param mid
+     * @param r
+     * @param lower
+     * @param upper
+     * @return
+     */
     private static int merge(long[] sums, int l, int mid, int r, int lower, int upper) {
-
-        int p1 = l;
-        int p2 = mid + 1;
         int winl = l;
         int winr = l;
         int ans = 0;
         //先进行数据计算
-        while (p2 <= r) {
-            long min = sums[p2] - upper;
-            long max = sums[p2] - lower;
+        //从右边的数据中依次遍历，求出左侧数组中满足条件的值的范围
+        for (int i = mid + 1; i <= r; i++) {
+            long min = sums[i] - upper;
+            long max = sums[i] - lower;
             //如果左边的值小于允许的最小值 winl++，最终返回的是第一个符合条件的值
             while (winl <= mid && sums[winl] < min) {
                 winl++;
@@ -42,13 +50,11 @@ public class CountOfRangeSum {
             while (winr <= mid && sums[winr] <= max) {
                 winr++;
             }
-            p2++;
             ans += winr - winl;
         }
-
         long[] helps = new long[r - l + 1];
-        p1 = l;
-        p2 = mid + 1;
+        int p1 = l;
+        int p2 = mid + 1;
         int i = 0;
         //再进行排序
         while (p1 <= mid && p2 <= r) {
@@ -63,11 +69,15 @@ public class CountOfRangeSum {
         for (i = 0; i < helps.length; ) {
             sums[l + i] = helps[i++];
         }
-
         return ans;
 
     }
 
+    /**
+     * 获取前缀和
+     * @param nums
+     * @return
+     */
     private static long[] getBeforeSum(int[] nums) {
         long[] sums = new long[nums.length];
         sums[0] = nums[0];
@@ -76,6 +86,7 @@ public class CountOfRangeSum {
         }
         return sums;
     }
+
 
     public static void main(String[] args) {
         int[] arr = {1, 1, 1, 2, 3, 2};
