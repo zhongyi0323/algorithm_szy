@@ -60,4 +60,17 @@ public class MainUtil {
         arr[j] = arr[i] ^ arr[j];
         arr[i] = arr[i] ^ arr[j];
     }
+
+    /**
+     * 两个位置的数进行交换，值相等的情况下禁止调用
+     *
+     * @param arr
+     * @param i
+     * @param j
+     */
+    public static void swap2(int[] arr, int i, int j) {
+        int tmp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = tmp;
+    }
 }
