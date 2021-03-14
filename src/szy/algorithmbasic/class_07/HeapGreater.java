@@ -49,6 +49,7 @@ public class HeapGreater<T> {
 
     /**
      * 移除元素
+     *
      * @param obj
      */
     public void remove(T obj) {
@@ -59,26 +60,27 @@ public class HeapGreater<T> {
         if (obj != replace) {
             indexMap.put(replace, index);
             heap.set(index, replace);
-            resign(index);
+            resign(obj);
         }
     }
 
     /**
      * 返货全部元素
+     *
      * @return
      */
-    public List<T> getAllElems(){
+    public List<T> getAllElems() {
         List<T> ans = new ArrayList<>();
-        for (T c: heap){
+        for (T c : heap) {
             ans.add(c);
         }
         return ans;
     }
 
 
-    private void resign(int index) {
-        heapInsert(index);
-        heapify(index);
+    public void resign(T obj) {
+        heapInsert(indexMap.get(obj));
+        heapify(indexMap.get(obj));
     }
 
     //
@@ -118,4 +120,16 @@ public class HeapGreater<T> {
         indexMap.put(obj2, i);
     }
 
+
+    public boolean contains(T obj) {
+        return indexMap.containsKey(obj);
+    }
+
+    public int size() {
+        return indexMap.size();
+    }
+
+    public boolean isEmpty() {
+        return indexMap.isEmpty();
+    }
 }

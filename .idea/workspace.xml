@@ -20,20 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/CoverMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/HeapGreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class05/Code01_CountOfRangeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class05/Code02_PartitionAndQuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class05/Code03_QuickSortRecursiveAndUnrecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class06/Code01_Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class06/Code02_Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class06/Code03_HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class06/Code04_SortArrayDistanceLessK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class07/Code01_CoverMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class07/Code02_EveryStepShowBoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class07/HeapGreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class07/Inner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/EveryStepShowBoss.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/HeapGreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/HeapGreater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +174,7 @@
       <workItem from="1615281487648" duration="16450000" />
       <workItem from="1615371502746" duration="24949000" />
       <workItem from="1615643423112" duration="193000" />
-      <workItem from="1615643836790" duration="6242000" />
+      <workItem from="1615643836790" duration="12861000" />
     </task>
     <servers />
   </component>
@@ -213,10 +202,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614928119340" />
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1615645228067">
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1615695423380">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615645228067" />
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615695423380" />
     <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1614925479272">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -291,6 +280,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="421" y="205" width="597" height="490" key="find.popup/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615519116926" />
+    <state x="420" y="230" key="refactoring.ChangeSignatureDialog" timestamp="1615699026174">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="420" y="230" key="refactoring.ChangeSignatureDialog/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615699026174" />
     <state x="385" y="217" width="670" height="676" key="search.everywhere.popup" timestamp="1615295233616">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
