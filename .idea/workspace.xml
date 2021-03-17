@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_09/SmallEqualsBigger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/IsPalindromeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/IsPalindromeList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IsPalindromeList">
+  <component name="RunManager" selected="Application.SmallEqualsBigger">
     <configuration name="BiggerThanRideTwice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_04.BiggerThanRideTwice" />
       <module name="leetCode" />
@@ -123,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_04.ReversePair" />
+    <configuration name="SmallEqualsBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_09.SmallEqualsBigger" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.class_04.*" />
+          <option name="PATTERN" value="szy.algorithmbasic.class_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,24 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallEqualsBigger" />
         <item itemvalue="Application.IsPalindromeList" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.CountOfRangeSum" />
         <item itemvalue="Application.BiggerThanRideTwice" />
-        <item itemvalue="Application.ReversePair" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +177,7 @@
       <workItem from="1615371502746" duration="24949000" />
       <workItem from="1615643423112" duration="193000" />
       <workItem from="1615643836790" duration="30309000" />
+      <workItem from="1615949561386" duration="4258000" />
     </task>
     <servers />
   </component>
@@ -208,58 +213,67 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614925479272" />
-    <state width="473" height="466" key="DebuggerActiveHint" timestamp="1615777273521">
+    <state width="473" height="466" key="DebuggerActiveHint" timestamp="1615951893366">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="473" height="466" key="DebuggerActiveHint/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615777273521" />
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1615786664715">
+    <state width="473" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1615951893366" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1615951940321">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="254" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986229" />
     <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675066" />
     <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615786664715" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1615786664714">
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615951940321" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1615951940318">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="254" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986227" />
     <state width="1398" height="254" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675062" />
     <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615786664714" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1615786664712">
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615951940318" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1615951940315">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="254" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986223" />
     <state width="1398" height="254" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675060" />
     <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615786664712" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1615786664714">
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615951940315" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1615951940320">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="254" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986228" />
     <state width="1398" height="254" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675065" />
     <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615786664714" />
-    <state width="1398" height="254" key="GridCell.Tab.1.bottom" timestamp="1615777314863">
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615951940320" />
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom" timestamp="1615951940325">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="254" key="GridCell.Tab.1.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986233" />
     <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675070" />
     <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615777314863" />
-    <state width="1398" height="254" key="GridCell.Tab.1.center" timestamp="1615777314861">
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615951940325" />
+    <state width="1398" height="235" key="GridCell.Tab.1.center" timestamp="1615951940323">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="254" key="GridCell.Tab.1.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986232" />
     <state width="1398" height="254" key="GridCell.Tab.1.center/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675068" />
     <state width="1398" height="254" key="GridCell.Tab.1.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615777314861" />
-    <state width="1398" height="254" key="GridCell.Tab.1.left" timestamp="1615777314861">
+    <state width="1398" height="235" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1615951940323" />
+    <state width="1398" height="235" key="GridCell.Tab.1.left" timestamp="1615951940322">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="254" key="GridCell.Tab.1.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986230" />
     <state width="1398" height="254" key="GridCell.Tab.1.left/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675067" />
     <state width="1398" height="254" key="GridCell.Tab.1.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615777314861" />
-    <state width="1398" height="254" key="GridCell.Tab.1.right" timestamp="1615777314862">
+    <state width="1398" height="235" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1615951940322" />
+    <state width="1398" height="235" key="GridCell.Tab.1.right" timestamp="1615951940324">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="254" key="GridCell.Tab.1.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986233" />
     <state width="1398" height="254" key="GridCell.Tab.1.right/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675069" />
     <state width="1398" height="254" key="GridCell.Tab.1.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615777314862" />
+    <state width="1398" height="235" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1615951940324" />
     <state x="208" y="42" key="SettingsEditor" timestamp="1614934210182">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -293,7 +307,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/szy/algorithmbasic/class_09/IsPalindromeList.java</url>
-          <line>76</line>
+          <line>75</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
