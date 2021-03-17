@@ -24,7 +24,6 @@ public class IsPalindromeList {
      * @return
      */
     public static boolean isPalindrome1(Node head) {
-        boolean ans = false;
         Stack<Node> nodes = new Stack<>();
         Node pre = head;
         while (pre != null) {
