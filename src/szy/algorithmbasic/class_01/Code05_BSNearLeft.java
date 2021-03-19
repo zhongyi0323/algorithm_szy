@@ -9,7 +9,7 @@ import static szy.algorithmbasic.util.MainUtil.generatorRandomArray;
 /**
  * 在有序数组中查询大于num的最左索引值
  */
-public class BSNearLeft {
+public class Code05_BSNearLeft {
 
     /**
      * 获取数组中大于num的最左索引数

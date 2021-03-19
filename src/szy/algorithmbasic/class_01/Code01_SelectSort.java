@@ -4,7 +4,13 @@ import szy.algorithmbasic.util.MainUtil;
 
 import java.util.Arrays;
 
-public class SelectSort {
+/**
+ * 选择排序
+ * 时间复杂度O(n^2)
+ * 额外空间复杂度O(1)
+ * 不稳定
+ */
+public class Code01_SelectSort {
 
     public static void selectionSort(int[] arr) {
         if (arr == null || arr.length < 2) {
@@ -12,6 +18,8 @@ public class SelectSort {
         }
         int minIndex = 0;
         //0~N-1位置选个最小值的位置
+        //1~N-1位置选个最小值的位置
+        //2~N-1位置选个最小值的位置
         for (int i = 0; i < arr.length - 1; i++) {
             minIndex = i;
             for (int j = i + 1; j < arr.length; j++) {

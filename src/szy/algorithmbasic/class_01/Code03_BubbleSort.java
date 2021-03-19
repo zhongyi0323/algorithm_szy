@@ -4,8 +4,11 @@ import szy.algorithmbasic.util.MainUtil;
 
 /**
  * 冒泡排序
+ * 时间复杂度 O(n^2)
+ * 额外空间复杂度 O(1)
+ * 稳定
  */
-public class BubbleSort {
+public class Code03_BubbleSort {
 
     public static void bubbleSort(int[] arr) {
         if (arr == null || arr.length < 2) return;

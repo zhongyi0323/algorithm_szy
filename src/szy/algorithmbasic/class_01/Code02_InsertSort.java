@@ -2,7 +2,15 @@ package szy.algorithmbasic.class_01;
 
 import szy.algorithmbasic.util.MainUtil;
 
-public class InsertSort {
+/**
+ * 插入排序
+ * 时间复杂度O(n^2)
+ * 额外空间复杂度O(1)
+ * 稳定
+ * 基于相对有序的数组，时间复杂度会变低
+ */
+public class Code02_InsertSort {
+
 
     public static void insertSort(int[] arr) {
         for (int i = 1; i < arr.length; i++) {

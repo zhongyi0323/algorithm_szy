@@ -6,7 +6,7 @@ import szy.algorithmbasic.util.MainUtil;
 /**
  * 在有序数组中查询小于num的最右索引值
  */
-public class BSNearRight {
+public class Code06_BSNearRight {
 
     public static int getRightIndex(int[] arr, int num) {
         if (arr == null) {
