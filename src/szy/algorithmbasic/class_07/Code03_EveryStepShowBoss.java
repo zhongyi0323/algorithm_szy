@@ -1,13 +1,11 @@
 package szy.algorithmbasic.class_07;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 
-public class EveryStepShowBoss {
-
+public class Code03_EveryStepShowBoss {
 
     public static class Customer {
         int id;
@@ -21,7 +19,7 @@ public class EveryStepShowBoss {
         }
     }
 
-    //候选区排序规则(按照购买数量降序、按照购入时间升序)
+    //候选区排序规则(按照购买数量降序、按照购入时间升序) 大根堆
     public static class CandidateComparator implements Comparator<Customer> {
         @Override
         public int compare(Customer o1, Customer o2) {
@@ -29,24 +27,24 @@ public class EveryStepShowBoss {
         }
     }
 
-    //中奖区排序规则（按照购买数量、购入时间升序）
+    //中奖区排序规则（按照购买数量、购入时间升序）小根堆
     public static class DaddyComparator implements Comparator<Customer> {
         @Override
         public int compare(Customer o1, Customer o2) {
-            return o1.buy != o2.buy ? o1.buy - o2.buy : o1.enterTime - o1.enterTime;
+            return o1.buy != o2.buy ? o1.buy - o2.buy : o1.enterTime - o2.enterTime;
         }
     }
 
     public static class WhosYourDaddy {
         private HashMap<Integer, Customer> heapMap;
-        private HeapGreater<Customer> candHeap;
-        private HeapGreater<Customer> daddyHeap;
+        private Code02_HeapGreater<Customer> candHeap;
+        private Code02_HeapGreater<Customer> daddyHeap;
         private int limit;
 
         public WhosYourDaddy(int limit) {
             heapMap = new HashMap<>();
-            candHeap = new HeapGreater<>(new CandidateComparator());
-            daddyHeap = new HeapGreater<>(new DaddyComparator());
+            candHeap = new Code02_HeapGreater<>(new CandidateComparator());
+            daddyHeap = new Code02_HeapGreater<>(new DaddyComparator());
             this.limit = limit;
 
         }
@@ -100,7 +98,7 @@ public class EveryStepShowBoss {
                 c.enterTime = time;
                 daddyHeap.push(c);
             } else {
-                if (candHeap.peek().buy > candHeap.peek().buy) {
+                if (candHeap.peek().buy > daddyHeap.peek().buy) {
                     Customer c1 = candHeap.pop();
                     Customer c2 = daddyHeap.pop();
                     c1.enterTime = time;

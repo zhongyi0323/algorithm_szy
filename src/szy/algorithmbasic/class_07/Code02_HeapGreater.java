@@ -10,7 +10,7 @@ import java.util.List;
  *
  * @param <T>
  */
-public class HeapGreater<T> {
+public class Code02_HeapGreater<T> {
 
     //存储堆中数据
     private ArrayList<T> heap;
@@ -21,7 +21,7 @@ public class HeapGreater<T> {
     //比较器
     private Comparator<? super T> comp;
 
-    public HeapGreater(Comparator<T> comp) {
+    public Code02_HeapGreater(Comparator<T> comp) {
         heap = new ArrayList<>();
         indexMap = new HashMap<>();
         heapSize = 0;
@@ -60,7 +60,7 @@ public class HeapGreater<T> {
         if (obj != replace) {
             indexMap.put(replace, index);
             heap.set(index, replace);
-            resign(obj);
+            resign(replace);
         }
     }
 
