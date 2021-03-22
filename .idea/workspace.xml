@@ -20,7 +20,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/Code02_DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_06/Code01_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_06/Code04_MergeSortDisLessK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BSAwesome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BSNearLeft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BSNearRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/ESExist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_02/Code_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_02/Code_GetOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_02/Code_KMcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_02/Code_getMore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/ReverseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code02_DeleteGivenValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code02_DeleteGivenValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code01_Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_GetOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code02_GetOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_KMcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code04_KMcode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code_getMore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_02/Code03_getMore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/ArrayToStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/Code07_RingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/DoubleListToStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/Code03_DoubleListToStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/GetMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/Code08_GetMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/Code01_ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/StackGetMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/Code04_StackGetMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/TwoQueuesImplStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/Code05_TwoQueuesImplStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/TwoStacksImplQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_03/Code06_TwoStacksImplQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_04/BiggerThanRideTwice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_04/Code04_BiggerThanRightTwice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_04/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_04/Code01_MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_04/ReversePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_04/Code03_ReversePair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_04/SmallSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_04/Code02_SmallSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_05/CountOfRangeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_05/Code01_CountOfRangeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_05/PartitionAndQuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_05/Code02_PartitionAndQuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_05/UnrecursiveQuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_05/Code03_UnrecursiveQuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_06/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_06/Code02_Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_06/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_06/Code03_HeapSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +95,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="szy.algorithmbasic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="szy.algorithmbasic.class_06" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/szy/algorithmbasic" />
@@ -70,39 +110,39 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Code02_DeleteGivenValue">
+    <configuration name="Code02_DeleteGivenValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.zuo_class03.Code02_DeleteGivenValue" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.zuo_class03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code04_KMcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code04_KMcode" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FandFirstIntersectNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_10.FandFirstIntersectNode" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="szy.algorithmbasic.class_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_06.HeapSort" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.class_06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsPalindromeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_09.IsPalindromeList" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.class_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +176,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_DeleteGivenValue" />
+        <item itemvalue="Application.Code04_KMcode" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.FandFirstIntersectNode" />
         <item itemvalue="Application.SmallEqualsBigger" />
-        <item itemvalue="Application.IsPalindromeList" />
-        <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +214,9 @@
       <workItem from="1615643423112" duration="193000" />
       <workItem from="1615643836790" duration="30309000" />
       <workItem from="1615949561386" duration="19156000" />
-      <workItem from="1616121651986" duration="2153000" />
+      <workItem from="1616121651986" duration="5600000" />
+      <workItem from="1616142918448" duration="12107000" />
+      <workItem from="1616320052264" duration="5013000" />
     </task>
     <servers />
   </component>
@@ -204,39 +257,43 @@
     </state>
     <state width="473" height="466" key="DebuggerActiveHint/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615777273521" />
     <state width="473" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1615951893366" />
-    <state width="1398" height="178" key="GridCell.Tab.0.bottom" timestamp="1616121014348">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state width="1398" height="138" key="GridCell.Tab.0.bottom" timestamp="1616303466836">
+      <screen x="-316" y="-1055" width="1920" height="1055" />
     </state>
+    <state width="1398" height="138" key="GridCell.Tab.0.bottom/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616303466836" />
     <state width="1398" height="254" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986229" />
     <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675066" />
-    <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615982419488" />
+    <state width="1398" height="138" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146635925" />
     <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615951940321" />
     <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014348" />
     <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430866" />
-    <state width="1398" height="178" key="GridCell.Tab.0.center" timestamp="1616121014345">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state width="1398" height="138" key="GridCell.Tab.0.center" timestamp="1616303466831">
+      <screen x="-316" y="-1055" width="1920" height="1055" />
     </state>
+    <state width="1398" height="138" key="GridCell.Tab.0.center/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616303466831" />
     <state width="1398" height="254" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986227" />
     <state width="1398" height="254" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675062" />
-    <state width="1398" height="178" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615982419483" />
+    <state width="1398" height="138" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146635923" />
     <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615951940318" />
     <state width="1398" height="178" key="GridCell.Tab.0.center/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014345" />
     <state width="1398" height="178" key="GridCell.Tab.0.center/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430864" />
-    <state width="1398" height="178" key="GridCell.Tab.0.left" timestamp="1616121014343">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state width="1398" height="138" key="GridCell.Tab.0.left" timestamp="1616303466829">
+      <screen x="-316" y="-1055" width="1920" height="1055" />
     </state>
+    <state width="1398" height="138" key="GridCell.Tab.0.left/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616303466829" />
     <state width="1398" height="254" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986223" />
     <state width="1398" height="254" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675060" />
-    <state width="1398" height="178" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615982419482" />
+    <state width="1398" height="138" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146635922" />
     <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615951940315" />
     <state width="1398" height="178" key="GridCell.Tab.0.left/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014343" />
     <state width="1398" height="178" key="GridCell.Tab.0.left/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430862" />
-    <state width="1398" height="178" key="GridCell.Tab.0.right" timestamp="1616121014347">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state width="1398" height="138" key="GridCell.Tab.0.right" timestamp="1616303466833">
+      <screen x="-316" y="-1055" width="1920" height="1055" />
     </state>
+    <state width="1398" height="138" key="GridCell.Tab.0.right/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616303466833" />
     <state width="1398" height="254" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986228" />
     <state width="1398" height="254" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675065" />
-    <state width="1398" height="178" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615982419485" />
+    <state width="1398" height="138" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146635924" />
     <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615951940320" />
     <state width="1398" height="178" key="GridCell.Tab.0.right/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014347" />
     <state width="1398" height="178" key="GridCell.Tab.0.right/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430865" />
@@ -276,11 +333,16 @@
     <state width="1398" height="235" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1615951940324" />
     <state width="1398" height="178" key="GridCell.Tab.1.right/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014353" />
     <state width="1398" height="178" key="GridCell.Tab.1.right/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430870" />
-    <state x="63" y="-1030" key="SettingsEditor" timestamp="1616119489510">
+    <state x="487" y="170" key="RollbackChangesDialog" timestamp="1616146725613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="487" y="170" key="RollbackChangesDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146725613" />
+    <state x="63" y="-1030" key="SettingsEditor" timestamp="1616125169861">
       <screen x="-214" y="-1055" width="1920" height="1055" />
     </state>
     <state x="63" y="-1030" key="SettingsEditor/0.0.1440.900/-214.-1055.1920.1055@-214.-1055.1920.1055" timestamp="1616119489510" />
     <state x="208" y="42" key="SettingsEditor/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614934210182" />
+    <state x="63" y="-1030" key="SettingsEditor/0.25.1440.875/-214.-1055.1920.1055@-214.-1055.1920.1055" timestamp="1616125169861" />
     <state x="63" y="-1030" key="SettingsEditor/0.25.1440.875/-214.-1080.1920.1080@-214.-1080.1920.1080" timestamp="1614840330508" />
     <state x="194" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1614926667925">
       <screen x="0" y="0" width="1440" height="900" />
@@ -300,9 +362,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="420" y="230" key="refactoring.ChangeSignatureDialog/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615699026174" />
-    <state x="385" y="217" width="670" height="676" key="search.everywhere.popup" timestamp="1615776421694">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="197" y="-820" width="894" height="812" key="search.everywhere.popup" timestamp="1616301835062">
+      <screen x="-316" y="-1080" width="1920" height="1080" />
     </state>
+    <state x="197" y="-820" width="894" height="812" key="search.everywhere.popup/-316.-1080.1920.1080/0.0.1440.900@-316.-1080.1920.1080" timestamp="1616301835062" />
     <state x="385" y="217" width="670" height="676" key="search.everywhere.popup/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615126783074" />
     <state x="385" y="217" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615776421694" />
   </component>
