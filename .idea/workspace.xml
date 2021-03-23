@@ -20,10 +20,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_10/Code02_RecursiveTraversalBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_10/Code03_UnRecursiveTraversalBT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/CoverMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/Code01_CoverMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/EveryStepShowBoss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/EveryStepShowBoss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/HeapGreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_07/Code02_HeapGreater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/ArrayToStack$MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/ArrayToStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/DoubleListToStack$DoubleEndsQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/DoubleListToStack$MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/DoubleListToStack$MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/DoubleListToStack$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/DoubleListToStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/GetMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/StackGetMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/TwoQueuesImplStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/TwoStacksImplQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_04/BiggerThanRideTwice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_04/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_04/ReversePair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_04/SmallSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_05/CountOfRangeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_05/PartitionAndQuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_05/UnrecursiveQuickSort$Op.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_05/UnrecursiveQuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Heap$MyMaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/CoverMax$Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/CoverMax$StartComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/CoverMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/EveryStepShowBoss$CandidateComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/EveryStepShowBoss$Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/EveryStepShowBoss$DaddyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/EveryStepShowBoss$WhosYourDaddy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/EveryStepShowBoss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/HeapGreater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/CountSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/RadixSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/TrieTree$Node1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/TrieTree$Trie1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/TrieTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/CopyWithRandom$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/CopyWithRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/IsPalindromeList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/IsPalindromeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/SmallEqualsBigger$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/SmallEqualsBigger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/FandFirstIntersectNode$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/FandFirstIntersectNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/RecursiveTraversalBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/RecursiveTraversalBT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code02_DeleteGivenValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code02_DeleteGivenValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_08/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_08/Code01_CountSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_08/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_08/Code02_RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_08/TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_08/Code03_TrieTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_09/CopyWithRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_09/Code03_CopyWithRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_09/IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_09/Code01_IsPalindromeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_09/SmallEqualsBigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_09/Code02_SmallEqualsBigger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_10/FandFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_10/Code01_FandFirstIntersectNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_10/RecursiveTraversalBT.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +129,20 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_DeleteGivenValue">
+  <component name="RunManager">
+    <configuration name="Code01_FandFirstIntersectNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_10.Code01_FandFirstIntersectNode" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code02_DeleteGivenValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.zuo_class03.Code02_DeleteGivenValue" />
       <module name="leetCode" />
@@ -90,21 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_KMcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code04_KMcode" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.class_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FandFirstIntersectNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_10.FandFirstIntersectNode" />
+    <configuration name="Code02_RecursiveTraversalBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_10.Code02_RecursiveTraversalBT" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -116,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallEqualsBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_09.SmallEqualsBigger" />
+    <configuration name="Code04_KMcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code04_KMcode" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.class_09.*" />
+          <option name="PATTERN" value="szy.algorithmbasic.class_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_RecursiveTraversalBT" />
         <item itemvalue="Application.Code02_DeleteGivenValue" />
         <item itemvalue="Application.Code04_KMcode" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FandFirstIntersectNode" />
-        <item itemvalue="Application.SmallEqualsBigger" />
+        <item itemvalue="Application.Code01_FandFirstIntersectNode" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +235,7 @@
       <workItem from="1615949561386" duration="19156000" />
       <workItem from="1616121651986" duration="5600000" />
       <workItem from="1616142918448" duration="12107000" />
-      <workItem from="1616320052264" duration="10308000" />
+      <workItem from="1616320052264" duration="17062000" />
     </task>
     <servers />
   </component>
@@ -223,43 +276,43 @@
     </state>
     <state width="473" height="466" key="DebuggerActiveHint/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615777273521" />
     <state width="473" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1615951893366" />
-    <state width="1398" height="138" key="GridCell.Tab.0.bottom" timestamp="1616303466836">
-      <screen x="-316" y="-1055" width="1920" height="1055" />
+    <state width="1398" height="389" key="GridCell.Tab.0.bottom" timestamp="1616501145284">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="138" key="GridCell.Tab.0.bottom/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616303466836" />
     <state width="1398" height="254" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986229" />
     <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675066" />
-    <state width="1398" height="138" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146635925" />
+    <state width="1398" height="389" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616501145284" />
     <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615951940321" />
     <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014348" />
     <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430866" />
-    <state width="1398" height="138" key="GridCell.Tab.0.center" timestamp="1616303466831">
-      <screen x="-316" y="-1055" width="1920" height="1055" />
+    <state width="1398" height="389" key="GridCell.Tab.0.center" timestamp="1616501145282">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="138" key="GridCell.Tab.0.center/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616303466831" />
     <state width="1398" height="254" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986227" />
     <state width="1398" height="254" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675062" />
-    <state width="1398" height="138" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146635923" />
+    <state width="1398" height="389" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616501145282" />
     <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615951940318" />
     <state width="1398" height="178" key="GridCell.Tab.0.center/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014345" />
     <state width="1398" height="178" key="GridCell.Tab.0.center/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430864" />
-    <state width="1398" height="138" key="GridCell.Tab.0.left" timestamp="1616303466829">
-      <screen x="-316" y="-1055" width="1920" height="1055" />
+    <state width="1398" height="389" key="GridCell.Tab.0.left" timestamp="1616501145281">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="138" key="GridCell.Tab.0.left/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616303466829" />
     <state width="1398" height="254" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986223" />
     <state width="1398" height="254" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675060" />
-    <state width="1398" height="138" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146635922" />
+    <state width="1398" height="389" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616501145281" />
     <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615951940315" />
     <state width="1398" height="178" key="GridCell.Tab.0.left/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014343" />
     <state width="1398" height="178" key="GridCell.Tab.0.left/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430862" />
-    <state width="1398" height="138" key="GridCell.Tab.0.right" timestamp="1616303466833">
-      <screen x="-316" y="-1055" width="1920" height="1055" />
+    <state width="1398" height="389" key="GridCell.Tab.0.right" timestamp="1616501145283">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="138" key="GridCell.Tab.0.right/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616303466833" />
     <state width="1398" height="254" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986228" />
     <state width="1398" height="254" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675065" />
-    <state width="1398" height="138" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146635924" />
+    <state width="1398" height="389" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616501145283" />
     <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615951940320" />
     <state width="1398" height="178" key="GridCell.Tab.0.right/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014347" />
     <state width="1398" height="178" key="GridCell.Tab.0.right/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430865" />
@@ -339,7 +392,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/szy/algorithmbasic/class_09/IsPalindromeList.java</url>
+          <url>file://$PROJECT_DIR$/src/szy/algorithmbasic/class_09/Code01_IsPalindromeList.java</url>
           <line>75</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
