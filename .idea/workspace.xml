@@ -20,6 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de28b9b-cd0d-42f9-88a4-b36e38794ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_11/Code01_LevelTraversalBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_11/Code02_SerializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_11/Code03_EncodeNaryTreeToBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_11/Code04_TreeMaxWidth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +62,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -73,7 +77,7 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Code01_FandFirstIntersectNode">
     <configuration name="Code01_FandFirstIntersectNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_10.Code01_FandFirstIntersectNode" />
       <module name="leetCode" />
@@ -139,13 +143,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -300,11 +306,12 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="487" y="170" key="RollbackChangesDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616146725613" />
-    <state x="63" y="-1030" key="SettingsEditor" timestamp="1616125169861">
-      <screen x="-214" y="-1055" width="1920" height="1055" />
+    <state x="249" y="26" key="SettingsEditor" timestamp="1616570520586">
+      <screen x="0" y="0" width="1728" height="1112" />
     </state>
     <state x="63" y="-1030" key="SettingsEditor/0.0.1440.900/-214.-1055.1920.1055@-214.-1055.1920.1055" timestamp="1616119489510" />
     <state x="208" y="42" key="SettingsEditor/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614934210182" />
+    <state x="249" y="26" key="SettingsEditor/0.0.1728.1112/144.-1080.1920.1080@0.0.1728.1112" timestamp="1616570520586" />
     <state x="63" y="-1030" key="SettingsEditor/0.25.1440.875/-214.-1055.1920.1055@-214.-1055.1920.1055" timestamp="1616125169861" />
     <state x="63" y="-1030" key="SettingsEditor/0.25.1440.875/-214.-1080.1920.1080@-214.-1080.1920.1080" timestamp="1614840330508" />
     <state x="194" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1614926667925">
@@ -317,6 +324,10 @@
     <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615731623764" />
     <state x="481" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-214.-1080.1920.1080@-214.-1080.1920.1080" timestamp="1616072602750" />
     <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615184559941" />
+    <state x="222" y="-1080" width="1270" height="1071" maximized="true" key="dock-window-1" timestamp="1616577403684">
+      <screen x="144" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="222" y="-1080" width="1270" height="1071" maximized="true" key="dock-window-1/0.0.1728.1112/144.-1080.1920.1080@0.0.1728.1112" timestamp="1616577403684" />
     <state x="421" y="205" width="597" height="490" key="find.popup" timestamp="1615519116926">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
