@@ -20,9 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e901e86-408a-4b73-bceb-ed450fce6a27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_13/Code01_MaxSubBSTHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_13/Code02_lowestAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_13/Code03_happyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_13/Code04_LowestLexicography.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class13/Code01_IsCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class13/Code02_MaxSubBSTHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class13/Code03_lowestAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class13/Code04_MaxHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class13/Code05_LowestLexicography.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code05_MaxSubBSTSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code05_MaxSubBSTSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code06_MaxDIstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code06_MaxDIstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code05_MaxSubBSTSize.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code05_MaxSubBSTSize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code06_MaxDIstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code06_MaxDIstance.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +84,20 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code05_MaxSubBSTSize">
+  <component name="RunManager" selected="Application.Code04_LowestLexicography">
+    <configuration name="Code01_MaxSubBSTHead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_13.Code01_MaxSubBSTHead" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szy.algorithmbasic.class_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code02_DeleteGivenValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.zuo_class03.Code02_DeleteGivenValue" />
       <module name="leetCode" />
@@ -102,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_KMcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_02.Code04_KMcode" />
+    <configuration name="Code04_LowestLexicography" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.class_13.Code04_LowestLexicography" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.class_02.*" />
+          <option name="PATTERN" value="szy.algorithmbasic.class_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,26 +150,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="szy.algorithmbasic.test.Test" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="szy.algorithmbasic.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code04_LowestLexicography" />
+        <item itemvalue="Application.Code01_MaxSubBSTHead" />
         <item itemvalue="Application.Code05_MaxSubBSTSize" />
         <item itemvalue="Application.Code02_RecursiveTraversalBT" />
         <item itemvalue="Application.Code02_DeleteGivenValue" />
-        <item itemvalue="Application.Code04_KMcode" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +194,7 @@
       <workItem from="1616142918448" duration="12107000" />
       <workItem from="1616320052264" duration="17673000" />
       <workItem from="1616811162475" duration="9066000" />
-      <workItem from="1616896973318" duration="922000" />
+      <workItem from="1616896973318" duration="8694000" />
     </task>
     <servers />
   </component>
@@ -200,10 +222,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614928119340" />
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1615695423380">
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1616930231526">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615695423380" />
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1616930231526" />
     <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1614925479272">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -213,41 +235,41 @@
     </state>
     <state width="473" height="466" key="DebuggerActiveHint/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1615777273521" />
     <state width="473" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1615951893366" />
-    <state width="1878" height="219" key="GridCell.Tab.0.bottom" timestamp="1616856293497">
-      <screen x="-316" y="-1055" width="1920" height="1055" />
+    <state width="1398" height="173" key="GridCell.Tab.0.bottom" timestamp="1616900441998">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="219" key="GridCell.Tab.0.bottom/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616856293497" />
-    <state width="1398" height="254" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986229" />
+    <state width="1398" height="173" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1616900441998" />
     <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675066" />
     <state width="1398" height="389" key="GridCell.Tab.0.bottom/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616501145284" />
     <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615951940321" />
     <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014348" />
     <state width="1398" height="178" key="GridCell.Tab.0.bottom/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430866" />
-    <state width="1878" height="219" key="GridCell.Tab.0.center" timestamp="1616856293490">
-      <screen x="-316" y="-1055" width="1920" height="1055" />
+    <state width="1398" height="173" key="GridCell.Tab.0.center" timestamp="1616900441997">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="219" key="GridCell.Tab.0.center/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616856293490" />
-    <state width="1398" height="254" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986227" />
+    <state width="1398" height="173" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1616900441997" />
     <state width="1398" height="254" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675062" />
     <state width="1398" height="389" key="GridCell.Tab.0.center/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616501145282" />
     <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615951940318" />
     <state width="1398" height="178" key="GridCell.Tab.0.center/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014345" />
     <state width="1398" height="178" key="GridCell.Tab.0.center/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430864" />
-    <state width="1878" height="219" key="GridCell.Tab.0.left" timestamp="1616856293487">
-      <screen x="-316" y="-1055" width="1920" height="1055" />
+    <state width="1398" height="173" key="GridCell.Tab.0.left" timestamp="1616900441996">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="219" key="GridCell.Tab.0.left/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616856293487" />
-    <state width="1398" height="254" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986223" />
+    <state width="1398" height="173" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1616900441996" />
     <state width="1398" height="254" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675060" />
     <state width="1398" height="389" key="GridCell.Tab.0.left/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616501145281" />
     <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615951940315" />
     <state width="1398" height="178" key="GridCell.Tab.0.left/0.25.1440.875/-214.-1055.1920.1055@0.25.1440.875" timestamp="1616121014343" />
     <state width="1398" height="178" key="GridCell.Tab.0.left/0.25.1440.875/-214.-1080.1920.1080@0.25.1440.875" timestamp="1616065430862" />
-    <state width="1878" height="219" key="GridCell.Tab.0.right" timestamp="1616856293495">
-      <screen x="-316" y="-1055" width="1920" height="1055" />
+    <state width="1398" height="173" key="GridCell.Tab.0.right" timestamp="1616900441998">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="219" key="GridCell.Tab.0.right/-316.-1055.1920.1055/0.25.1440.875@-316.-1055.1920.1055" timestamp="1616856293495" />
-    <state width="1398" height="254" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615644986228" />
+    <state width="1398" height="173" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1616900441998" />
     <state width="1398" height="254" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1055.1920.1055@0.0.1440.900" timestamp="1615548675065" />
     <state width="1398" height="389" key="GridCell.Tab.0.right/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1616501145283" />
     <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615951940320" />
