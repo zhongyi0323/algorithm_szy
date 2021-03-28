@@ -21,6 +21,10 @@ public class Code06_MaxDIstance {
         }
     }
 
+    public static int getMaxDistance(MainUtil.Node node){
+        return process(node).distance;
+    }
+
     public static Info process(MainUtil.Node head) {
         if (head == null) return new Info(0, 0);
         Info leftInfo = process(head.left);

@@ -20,58 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e901e86-408a-4b73-bceb-ed450fce6a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code02_RecursiveTraversalBT$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code02_RecursiveTraversalBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code03_UnRecursiveTraversalBT$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code03_UnRecursiveTraversalBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code01_LevelTraversalBT$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code01_LevelTraversalBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code05_TreeMaxWidth$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code05_TreeMaxWidth.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code06_SuccessorNode$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code06_SuccessorNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code07_PaperFolding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code01_FindFirstIntersectNode$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code01_FindFirstIntersectNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code02_RecursiveTraversalBT$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code02_RecursiveTraversalBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code03_UnRecursiveTraversalBT$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code03_UnRecursiveTraversalBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code01_LevelTraversalBT$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code01_LevelTraversalBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code02_SerializeAndReconstructTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code02_SerializeAndReconstructTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code03_EncodeNaryTreeToBinaryTree$Codec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code03_EncodeNaryTreeToBinaryTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code03_EncodeNaryTreeToBinaryTree$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code03_EncodeNaryTreeToBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code04_PrintBinaryTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code04_PrintBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code05_TreeMaxWidth$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code05_TreeMaxWidth.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code06_SuccessorNode$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code06_SuccessorNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code07_PaperFolding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_11/Code05_TreeMaxWidth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_11/Code06_SuccessorNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_11/Code07_PaperFolding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code01_isCBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code02_isBBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code03_isBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code04_isFull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code05_MaxSubBSTSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code06_MaxDIstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class12/Code01_IsCBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class12/Code02_IsBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class12/Code03_IsBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class12/Code04_IsFull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class12/Code05_MaxSubBSTSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/zuo_class12/Code06_MaxDistance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/RecursiveTraversalBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/RecursiveTraversalBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_11/Code01_LevelTraversalBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_11/Code01_LevelTraversalBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/util/MainUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/util/MainUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code05_MaxSubBSTSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code05_MaxSubBSTSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code06_MaxDIstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/szy/algorithmbasic/class_12/Code06_MaxDIstance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,17 +141,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Code05_MaxSubBSTSize" />
@@ -232,6 +172,7 @@
       <workItem from="1616142918448" duration="12107000" />
       <workItem from="1616320052264" duration="17673000" />
       <workItem from="1616811162475" duration="9066000" />
+      <workItem from="1616896973318" duration="922000" />
     </task>
     <servers />
   </component>

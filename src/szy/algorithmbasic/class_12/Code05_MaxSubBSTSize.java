@@ -62,6 +62,15 @@ public class Code05_MaxSubBSTSize {
         //如果左右子树都满足二叉搜索树
         if (isleftBST && isrightBST) {
 
+//            boolean leftLessThanX = leftInfo == null ? true : node.value > leftInfo.max;
+//            boolean rightMoreThanX = rightInfo == null ? true : node.value < rightInfo.min;
+//
+//            if (leftLessThanX && rightMoreThanX) {
+//                int leftSize = leftInfo == null ? 0 : leftInfo.maxBSTSubSize;
+//                int rightSize = rightInfo == null ? 0: rightInfo.maxBSTSubSize;
+//                p3 = leftSize+rightSize+1;
+//            }
+
             if (leftInfo == null && rightInfo == null) {
                 p3 = 1;
             } else if (leftInfo == null) {
