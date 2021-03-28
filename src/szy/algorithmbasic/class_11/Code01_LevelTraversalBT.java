@@ -1,10 +1,8 @@
 package szy.algorithmbasic.class_11;
 
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
 
 /**
  * @Author:sunzhongyi

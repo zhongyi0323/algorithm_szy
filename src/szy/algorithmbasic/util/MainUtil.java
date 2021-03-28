@@ -4,6 +4,16 @@ import java.util.Arrays;
 
 public class MainUtil {
 
+
+    public static class Node{
+        public int value;
+        public Node left;
+        public Node right;
+        public Node(int val){
+            this.value = val;
+        }
+    }
+
     public static int[] generatorRandomArray(int maxValue, int maxLength) {
         //创建最大长度为maxLength的随机数组[0,maxLength+1)
         int length = (int) (Math.random() * (maxLength)) + 1;
