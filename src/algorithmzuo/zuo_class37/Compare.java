@@ -1,8 +1,8 @@
 package algorithmzuo.zuo_class37;
 
-import class35.Code01_AVLTreeMap.AVLTreeMap;
-import class36.Code01_SizeBalancedTreeMap.SizeBalancedTreeMap;
-import class36.Code02_SkipListMap.SkipListMap;
+import algorithmzuo.zuo_class35.Code01_AVLTreeMap.AVLTreeMap;
+import algorithmzuo.zuo_class36.Code01_SizeBalancedTreeMap.SizeBalancedTreeMap;
+import algorithmzuo.zuo_class36.Code02_SkipListMap.SkipListMap;
 
 import java.util.TreeMap;
 
