@@ -20,276 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e901e86-408a-4b73-bceb-ed450fce6a27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm_szy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm_szy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithmbasic/class_15/Code01_UnionFind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/addone/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/countAndSay/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/deleteDuplicates/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/deleteDuplicates/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/lengthofLastWord/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/maximumSubarray/Method_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/Code01_SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/Code02_InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/Code03_BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/Code04_ESExist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/Code05_BSNearLeft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/Code06_BSNearRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_01/Code07_BSAwesome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_02/Code01_Swap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_02/Code02_GetOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_02/Code03_getMore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_02/Code04_KMcode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code01_ReverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code02_DeleteNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code02_DeleteNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code03_DoubleListToStack$DoubleEndsQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code03_DoubleListToStack$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code03_DoubleListToStack$MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code03_DoubleListToStack$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code03_DoubleListToStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code04_StackGetMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code05_TwoQueuesImplStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code06_TwoStacksImplQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code07_RingArray$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code07_RingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_03/Code08_GetMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_04/Code01_MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_04/Code02_SmallSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_04/Code03_ReversePair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_04/Code04_BiggerThanRightTwice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_05/Code01_CountOfRangeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_05/Code02_PartitionAndQuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_05/Code03_UnrecursiveQuickSort$Op.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_05/Code03_UnrecursiveQuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code01_Comparator$AComp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code01_Comparator$IdAscendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code01_Comparator$IdDescendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code01_Comparator$IdInAgeDe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code01_Comparator$IdShengAgeJiangOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code01_Comparator$MyComp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code01_Comparator$Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code01_Comparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code02_Heap$MyMaxHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code02_Heap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code03_HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_06/Code04_MergeSortDisLessK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/Code01_CoverMax$Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/Code01_CoverMax$StartComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/Code01_CoverMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/Code02_HeapGreater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/Code03_EveryStepShowBoss$CandidateComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/Code03_EveryStepShowBoss$Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/Code03_EveryStepShowBoss$DaddyComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/Code03_EveryStepShowBoss$WhosYourDaddy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_07/Code03_EveryStepShowBoss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/Code01_CountSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/Code02_RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/Code03_TrieTree$Node1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/Code03_TrieTree$Trie1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_08/Code03_TrieTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/Code01_IsPalindromeList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/Code01_IsPalindromeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/Code02_SmallEqualsBigger$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/Code02_SmallEqualsBigger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/Code03_CopyWithRandom$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_09/Code03_CopyWithRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code01_FandFirstIntersectNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code01_FandFirstIntersectNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code02_RecursiveTraversalBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code02_RecursiveTraversalBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code03_UnRecursiveTraversalBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_10/Code03_UnRecursiveTraversalBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code01_LevelTraversalBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code01_LevelTraversalBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code02_SerializeTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code02_SerializeTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code03_EncodeNaryTreeToBinaryTree$CodeC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code03_EncodeNaryTreeToBinaryTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code03_EncodeNaryTreeToBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code03_EncodeNaryTreeToBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code04_TreeMaxWidth$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code04_TreeMaxWidth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code05_TreeMaxWidth$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code05_TreeMaxWidth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code06_SuccessorNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code06_SuccessorNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_11/Code07_PaperFolding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code01_isCBT$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code01_isCBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code01_isCBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code02_isBBT$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code02_isBBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code02_isBBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code03_isBST$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code03_isBST$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code03_isBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code04_isFull$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code04_isFull$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code04_isFull.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code05_MaxSubBSTSize$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code05_MaxSubBSTSize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code06_MaxDIstance$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_12/Code06_MaxDIstance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code01_MaxSubBSTHead$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code01_MaxSubBSTHead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code02_lowestAncestor$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code02_lowestAncestor$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code02_lowestAncestor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code03_happyNode$Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code03_happyNode$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code03_happyNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code04_LowestLexicography$MyComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/class_13/Code04_LowestLexicography.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/util/DoubleNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/util/MainUtil$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/util/MainUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/util/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class01/Code01_SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class01/Code02_BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class01/Code03_InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class01/Code04_BSExist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class01/Code05_BSNearLeft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class01/Code05_BSNearRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class01/Code06_BSAwesome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class02/Code01_Swap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class02/Code02_EvenTimesOddTimes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class02/Code03_KM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code01_ReverseList$DoubleNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code01_ReverseList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code01_ReverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code02_DeleteGivenValue$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code02_DeleteGivenValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code03_DoubleEndsQueueToStackAndQueue$DoubleEndsQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code03_DoubleEndsQueueToStackAndQueue$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code03_DoubleEndsQueueToStackAndQueue$MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code03_DoubleEndsQueueToStackAndQueue$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code03_DoubleEndsQueueToStackAndQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code04_RingArray$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code04_RingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code05_GetMinStack$MyStack1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code05_GetMinStack$MyStack2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code05_GetMinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code06_TwoStacksImplementQueue$TwoStacksQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code06_TwoStacksImplementQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code07_TwoQueueImplementStack$TwoQueueStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code07_TwoQueueImplementStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/Code08_GetMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/HashMapAndSortedMap$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/HashMapAndSortedMap$Zuo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class03/HashMapAndSortedMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class04/Code01_MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class04/Code02_SmallSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class04/Code03_ReversePair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class04/Code04_BiggerThanRightTwice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class05/Code01_CountOfRangeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class05/Code02_PartitionAndQuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class05/Code03_QuickSortRecursiveAndUnrecursive$Op.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class05/Code03_QuickSortRecursiveAndUnrecursive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code01_Comparator$AComp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code01_Comparator$IdAscendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code01_Comparator$IdDescendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code01_Comparator$IdInAgeDe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code01_Comparator$IdShengAgeJiangOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code01_Comparator$MyComp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code01_Comparator$Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code01_Comparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code02_Heap$MyComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code02_Heap$MyMaxHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code02_Heap$RightMaxHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code02_Heap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code03_HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class06/Code04_SortArrayDistanceLessK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code01_CoverMax$EndComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code01_CoverMax$Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code01_CoverMax$StartComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code01_CoverMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code02_EveryStepShowBoss$CandidateComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code02_EveryStepShowBoss$Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code02_EveryStepShowBoss$DaddyComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code02_EveryStepShowBoss$Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code02_EveryStepShowBoss$WhosYourDaddy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Code02_EveryStepShowBoss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/HeapGreater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class07/Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code01_TrieTree$Node1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code01_TrieTree$Node2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code01_TrieTree$Right.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code01_TrieTree$Trie1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code01_TrieTree$Trie2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code01_TrieTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code02_TrieTree$Node1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code02_TrieTree$Node2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code02_TrieTree$Right.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code02_TrieTree$Trie1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code02_TrieTree$Trie2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code02_TrieTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code03_CountSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class08/Code04_RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class09/Code01_LinkedListMid$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class09/Code01_LinkedListMid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class09/Code02_IsPalindromeList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class09/Code02_IsPalindromeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class09/Code03_SmallerEqualBigger$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class09/Code03_SmallerEqualBigger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class09/Code04_CopyListWithRandom$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class09/Code04_CopyListWithRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code01_FindFirstIntersectNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code01_FindFirstIntersectNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code02_RecursiveTraversalBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code02_RecursiveTraversalBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code03_UnRecursiveTraversalBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class10/Code03_UnRecursiveTraversalBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code01_LevelTraversalBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code01_LevelTraversalBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code02_SerializeAndReconstructTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code02_SerializeAndReconstructTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code03_EncodeNaryTreeToBinaryTree$Codec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code03_EncodeNaryTreeToBinaryTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code03_EncodeNaryTreeToBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code03_EncodeNaryTreeToBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code04_PrintBinaryTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code04_PrintBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code05_TreeMaxWidth$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code05_TreeMaxWidth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code06_SuccessorNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code06_SuccessorNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class11/Code07_PaperFolding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code01_IsCBT$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code01_IsCBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code01_IsCBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code02_IsBST$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code02_IsBST$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code02_IsBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code03_IsBalanced$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code03_IsBalanced$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code03_IsBalanced.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code04_IsFull$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code04_IsFull$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code04_IsFull.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code05_MaxSubBSTSize$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code05_MaxSubBSTSize$Info1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code05_MaxSubBSTSize$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code05_MaxSubBSTSize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code06_MaxDistance$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code06_MaxDistance$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class12/Code06_MaxDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code01_IsCBT$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code01_IsCBT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code01_IsCBT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code02_MaxSubBSTHead$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code02_MaxSubBSTHead$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code02_MaxSubBSTHead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code03_lowestAncestor$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code03_lowestAncestor$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code03_lowestAncestor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code04_MaxHappy$Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code04_MaxHappy$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code04_MaxHappy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code05_LowestLexicography$MyComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/szy/algorithmbasic/zuo_class13/Code05_LowestLexicography.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -411,13 +143,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -461,7 +195,8 @@
       <workItem from="1617108485392" duration="138000" />
       <workItem from="1617108649912" duration="54000" />
       <workItem from="1617108713497" duration="137000" />
-      <workItem from="1617108861017" duration="183000" />
+      <workItem from="1617108861017" duration="570000" />
+      <workItem from="1617246051504" duration="2253000" />
     </task>
     <servers />
   </component>
@@ -489,10 +224,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="123" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1614928119340" />
-    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1616937642667">
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1617246999933">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1616937642667" />
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-214.-1080.1920.1080@0.0.1440.900" timestamp="1617246999933" />
     <state x="494" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1614925479272">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
