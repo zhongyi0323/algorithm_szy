@@ -65,6 +65,10 @@ public class Code01_UnionFind {
             sizes.remove(small);
 
         }
+
+        public int sets(){
+            return sizes.size();
+        }
     }
 
 }
