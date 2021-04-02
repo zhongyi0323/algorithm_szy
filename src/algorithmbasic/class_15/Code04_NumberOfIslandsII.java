@@ -1,6 +1,7 @@
 package algorithmbasic.class_15;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -96,6 +97,81 @@ public class Code04_NumberOfIslandsII {
                 union(r, c - 1, r, c);
                 union(r, c + 1, r, c);
                 union(r + 1, c, r, c);
+            }
+            return sets;
+        }
+    }
+
+
+    //避免并查集初始化问题
+    public List<Integer> numIslandsIII(int m, int n, int[][] positions) {
+
+        UnionFind2 unionFind2 = new UnionFind2();
+        ArrayList<Integer> list = new ArrayList<>();
+        for (int[] position : positions) {
+            list.add(unionFind2.connect(position[0], position[1]));
+
+        }
+        return list;
+    }
+
+    public static class UnionFind2 {
+        public HashMap<String, String> parent;
+        public HashMap<String, Integer> size;
+        private ArrayList<String> help;
+        public int sets;
+
+        public UnionFind2() {
+            parent = new HashMap<>();
+            size = new HashMap<>();
+            help = new ArrayList<>();
+            sets = 0;
+        }
+
+        public String find(String cur) {
+            while (!cur.equals(parent.get(cur))) {
+                help.add(cur);
+                cur = parent.get(cur);
+            }
+            for (String str : help) {
+                parent.put(str, cur);
+            }
+            return cur;
+        }
+
+        public void union(String a, String b) {
+            if (parent.containsKey(a) && parent.containsKey(b)) {
+                String f1 = find(a);
+                String f2 = find(b);
+                if (!f1.equals(f2)) {
+                    int size1 = size.get(a);
+                    int size2 = size.get(b);
+                    if (size1 >= size2) {
+                        size.put(a, size1 + size2);
+                        parent.put(b, a);
+                    } else {
+                        size.put(b, size1 + size2);
+                        parent.put(a, b);
+                    }
+                    sets--;
+                }
+            }
+        }
+
+        public int getSets() {
+            return sets;
+        }
+
+        public int connect(int r, int c) {
+            String cur = r + "_" + c;
+            if (!parent.containsKey(cur)) {
+                parent.put(cur, cur);
+                size.put(cur, 1);
+                sets++;
+                union(cur, r - 1 + "_" + c);
+                union(cur, r + 1 + "_" + c);
+                union(cur, r + "_" + (c - 1));
+                union(cur, r + "_" + (c + 1));
             }
             return sets;
         }
