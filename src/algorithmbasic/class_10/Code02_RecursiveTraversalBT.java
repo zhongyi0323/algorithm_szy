@@ -3,10 +3,11 @@ package algorithmbasic.class_10;
 /**
  * 二叉树遍历
  *
- *
+ *T
  *
  */
 public class Code02_RecursiveTraversalBT {
+
     public static class Node {
         public int value;
         public Node left;
@@ -67,5 +68,7 @@ public class Code02_RecursiveTraversalBT {
         System.out.println("========");
 
     }
+
+
 
 }
