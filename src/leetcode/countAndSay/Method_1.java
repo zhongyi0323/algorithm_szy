@@ -11,9 +11,17 @@ import java.util.Map;
 public class Method_1 {
 
     public static void main(String[] args) {
-        Method_1 method_1 = new Method_1();
-        String str = method_1.countAndSay(4);
-        System.out.println(str);
+//        Method_1 method_1 = new Method_1();
+//        String str = method_1.countAndSay(4);
+//        System.out.println(str);
+        System.out.println(sum(4,5));
+        System.out.println(4^5);
+        System.out.println(4&5);
+    }
+
+    public static int  sum(int a,int b){
+        if (a == 0 || b == 0) return a | b;
+        return sum(a^b, (a&b)<<1);
     }
 
     public String countAndSay(int n) {

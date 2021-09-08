@@ -65,6 +65,7 @@ public class Code10_Dijkstra2 {
         private boolean inHeap(Node node){
             return isEntered(node) && heapIndexMap.get(node)!=-1;
         }
+
         private void swap(int index1, int index2) {
             heapIndexMap.put(nodes[index1], index2);
             heapIndexMap.put(nodes[index2], index1);
