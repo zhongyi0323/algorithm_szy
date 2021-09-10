@@ -10,6 +10,45 @@ package algorithmbasic.class_19;
  */
 public class Code01_Knapsack {
 
+    public static int maxVal(int[] w, int[] v, int bag) {
+        return process(w, v, 0, bag);
+    }
+
+    private static int process(int[] w, int[] v, int index, int rest) {
+        if (rest < 0) {
+            return -1;
+        }
+        if (index == w.length) {
+            return 0;
+        }
+        //不选择当前位置的货物 拿到的最大值
+        int p1 = process(w, v, index + 1, rest);
+
+        int p2 = -1;
+        //如果当前最大值为>0 表示可以选当前位置，那当前的最大价值为 v[index]+ next
+        if (rest - w[index] >= 0) {
+            p2 = process(w, v, index + 1, rest - w[index]) + v[index];
+        }
+        return Math.max(p1, p2);
+    }
+
+    public static int dp2(int[] w, int[] v, int bag) {
+        int n = w.length;
+
+        int[][] dp = new int[n + 1][bag + 1];
+
+        for (int index = n - 1; index >= 0; index--) {
+            int ans = 0;
+            for (int rest = 0; rest <= bag; rest++) {
+                int p1 = dp[index + 1][rest];
+                int p2 = rest - w[index] < 0 ? -1 : dp[index + 1][rest-w[index]] + v[index];
+                ans = Math.max(p1, p2);
+                dp[index][rest] = ans;
+            }
+        }
+        return dp[0][bag];
+    }
+
 
     public static int maxVal1(int[] w, int[] v, int bag) {
         if (v == null || w == null || w.length != v.length || w.length == 0) {
@@ -42,6 +81,7 @@ public class Code01_Knapsack {
      * 动态规划
      * 1。n+1行 bag+1列的二维数组，第n+1行都为0表示越界了
      * 2。从n行开始向上填充，填充从左到右
+     *
      * @param w
      * @param v
      * @param bag
@@ -73,7 +113,9 @@ public class Code01_Knapsack {
         int[] values = {5, 6, 3, 19, 12, 4, 2};
         int bag = 15;
         System.out.println(maxVal1(weights, values, bag));
+        System.out.println(maxVal(weights, values, bag));
         System.out.println(dp(weights, values, bag));
+        System.out.println(dp2(weights, values, bag));
     }
 
 

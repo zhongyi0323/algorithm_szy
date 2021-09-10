@@ -10,6 +10,63 @@ import java.util.HashMap;
  */
 public class Code03_StickersToSpellWord {
 
+    public static int minStickers(String[] stickers, String target) {
+
+        int n = stickers.length;
+        //记录输入的字符串数组中每个元素的个数；
+        int[][] sticker = new int[n][26];
+        for (int i = 0; i < n; i++) {
+            char[] str = stickers[i].toCharArray();
+            for (char cha : str) {
+                sticker[i][cha - 'a']++;
+            }
+        }
+        HashMap<String, Integer> dp = new HashMap<>();
+
+        int min = process4(sticker, target, dp);
+        return min == Integer.MAX_VALUE ? -1 : min;
+
+    }
+
+    private static int process4(int[][] sticker, String target, HashMap<String, Integer> dp) {
+        if (dp.containsKey(target)) {
+            return dp.get(target);
+        }
+        if (target.length() == 0) {
+            return 0;
+        }
+        int min = Integer.MAX_VALUE;
+
+        char[] str = target.toCharArray();
+
+        int[] tcounts = new int[26];
+
+        for (char cha : str) {
+            tcounts[cha - 'a']++;
+        }
+
+        int n = sticker.length;
+
+        for (int i = 0; i < n; i++) {
+            if (sticker[i][str[0]-'a'] > 0) {
+                StringBuffer sb = new StringBuffer();
+                for (int j = 0;j<26;j++){
+                    int k = tcounts[j] - sticker[i][j];
+                    if (k>0){
+                        while (k-->0){
+                            sb.append((char)(j+'a'));
+                        }
+                    }
+                }
+                String rest =  sb.toString();
+                min = Math.min(min,process4(sticker,rest,dp)) ;
+            }
+        }
+        min += (min == Integer.MAX_VALUE)? 0:1;
+        dp.put(target,min);
+        return min;
+    }
+
 
     public static int ways(String[] stickers, String target) {
         int way = process(stickers, target);
@@ -158,14 +215,15 @@ public class Code03_StickersToSpellWord {
 
     public static void main(String[] args) {
 
-        String[] strings = {"heavy","claim","seven","set","had","it","dead","jump","design","question","sugar","dress","any","special","ground","huge","use","busy","prove","there","lone",
-                "window","trip","also","hot","choose","tie","several","be","that","corn","after",
-                "excite","insect","cat","cook","glad","like","wont","gray","especially","level",
-                "when","cover","ocean","try","clean","property","root","wing"};
+        String[] strings = {"heavy", "claim", "seven", "set", "had", "it", "dead", "jump", "design", "question", "sugar", "dress", "any", "special", "ground", "huge", "use", "busy", "prove", "there", "lone",
+                "window", "trip", "also", "hot", "choose", "tie", "several", "be", "that", "corn", "after",
+                "excite", "insect", "cat", "cook", "glad", "like", "wont", "gray", "especially", "level",
+                "when", "cover", "ocean", "try", "clean", "property", "root", "wing"};
         String target = "travelbell";
-        final int ways = ways(strings, target);
+//        final int ways = ways(strings, target);
 //        System.out.println(ways);
 //        System.out.println(ways2(strings, target));
         System.out.println(ways3(strings, target));
+        System.out.println(minStickers(strings, target));
     }
 }
