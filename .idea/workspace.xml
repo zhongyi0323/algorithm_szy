@@ -23,12 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e901e86-408a-4b73-bceb-ed450fce6a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithmbasic/class_21/Code02_CoinsWayEveryPaperDifferent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithmbasic/class_21/Code03_CoinsWayNoLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithmbasic/class_21/Code04_CoinsWaySameValueSamePapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithmbasic/class_21/Code05_BobDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithmbasic/class_22/Code01_KillMonster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithmbasic/class_22/Code02_MinCoinsNoLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithmbasic/class_22/Code03_SplitNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithmbasic/class_21/Code01_MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithmbasic/class_21/Code01_MinPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithmzuo/zuo_class22/Code03_SplitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithmzuo/zuo_class22/Code03_SplitNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +84,13 @@
       <recent name="$PROJECT_DIR$/src/szy.algorithmbasic/class01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code05_BobDie">
-    <configuration name="Code01_MinPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithmbasic.class_21.Code01_MinPathSum" />
+  <component name="RunManager" selected="Application.Code03_SplitNumber">
+    <configuration name="Code01_KillMonster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmbasic.class_22.Code01_KillMonster" />
       <module name="algorithm_szy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithmbasic.class_21.*" />
+          <option name="PATTERN" value="algorithmbasic.class_22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_CoinsWayEveryPaperDifferent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithmbasic.class_21.Code02_CoinsWayEveryPaperDifferent" />
+    <configuration name="Code02_MinCoinsNoLimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmbasic.class_22.Code02_MinCoinsNoLimit" />
       <module name="algorithm_szy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithmbasic.class_21.*" />
+          <option name="PATTERN" value="algorithmbasic.class_22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_CoinsWayNoLimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithmbasic.class_21.Code03_CoinsWayNoLimit" />
+    <configuration name="Code03_SplitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmbasic.class_22.Code03_SplitNumber" />
       <module name="algorithm_szy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithmbasic.class_21.*" />
+          <option name="PATTERN" value="algorithmbasic.class_22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_CoinsWaySameValueSamePapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithmbasic.class_21.Code04_CoinsWaySameValueSamePapper" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmbasic.Test" />
       <module name="algorithm_szy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithmbasic.class_21.*" />
+          <option name="PATTERN" value="algorithmbasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code05_BobDie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithmbasic.class_21.Code05_BobDie" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmbasic.Test2" />
       <module name="algorithm_szy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithmbasic.class_21.*" />
+          <option name="PATTERN" value="algorithmbasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Code05_BobDie" />
-        <item itemvalue="Application.Code04_CoinsWaySameValueSamePapper" />
-        <item itemvalue="Application.Code03_CoinsWayNoLimit" />
-        <item itemvalue="Application.Code02_CoinsWayEveryPaperDifferent" />
-        <item itemvalue="Application.Code01_MinPathSum" />
+        <item itemvalue="Application.Code03_SplitNumber" />
+        <item itemvalue="Application.Code02_MinCoinsNoLimit" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Code01_KillMonster" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +220,7 @@
       <workItem from="1629900228011" duration="2186000" />
       <workItem from="1631081998775" duration="43585000" />
       <workItem from="1631266149678" duration="31352000" />
-      <workItem from="1631846567101" duration="3162000" />
+      <workItem from="1631846567101" duration="19548000" />
     </task>
     <servers />
   </component>
@@ -250,78 +249,86 @@
       <screen x="-265" y="-1080" width="1920" height="1080" />
     </state>
     <state width="441" height="466" key="DebuggerActiveHint/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631182588484" />
-    <state width="1878" height="187" key="GridCell.Tab.0.bottom" timestamp="1631849510674">
-      <screen x="-265" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1632303007357">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="265" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@-316.-1080.1920.1080" timestamp="1628328477852" />
     <state width="1398" height="264" key="GridCell.Tab.0.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1629022653405" />
-    <state width="1878" height="187" key="GridCell.Tab.0.bottom/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631849510674" />
+    <state width="1878" height="255" key="GridCell.Tab.0.bottom/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631945977039" />
     <state width="1398" height="309" key="GridCell.Tab.0.bottom/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1631791481831" />
-    <state width="1398" height="263" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1629901791888" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631237493082" />
-    <state width="1878" height="187" key="GridCell.Tab.0.center" timestamp="1631849510671">
-      <screen x="-265" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1632303007357" />
+    <state width="1878" height="200" key="GridCell.Tab.0.bottom/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631859206182" />
+    <state width="1398" height="255" key="GridCell.Tab.0.bottom/39.0.1401.900@39.0.1401.900" timestamp="1632278777754" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1632303007355">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="265" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@-316.-1080.1920.1080" timestamp="1628328477850" />
     <state width="1398" height="264" key="GridCell.Tab.0.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1629022653403" />
-    <state width="1878" height="187" key="GridCell.Tab.0.center/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631849510671" />
+    <state width="1878" height="255" key="GridCell.Tab.0.center/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631945977036" />
     <state width="1398" height="309" key="GridCell.Tab.0.center/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1631791481829" />
-    <state width="1398" height="263" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1629901791887" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631237493075" />
-    <state width="1878" height="187" key="GridCell.Tab.0.left" timestamp="1631849510669">
-      <screen x="-265" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1632303007355" />
+    <state width="1878" height="200" key="GridCell.Tab.0.center/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631859206180" />
+    <state width="1398" height="255" key="GridCell.Tab.0.center/39.0.1401.900@39.0.1401.900" timestamp="1632278777751" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1632303007354">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="265" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@-316.-1080.1920.1080" timestamp="1628328477849" />
     <state width="1398" height="264" key="GridCell.Tab.0.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1629022653401" />
-    <state width="1878" height="187" key="GridCell.Tab.0.left/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631849510669" />
+    <state width="1878" height="255" key="GridCell.Tab.0.left/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631945977034" />
     <state width="1398" height="309" key="GridCell.Tab.0.left/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1631791481828" />
-    <state width="1398" height="263" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1629901791887" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631237493073" />
-    <state width="1878" height="187" key="GridCell.Tab.0.right" timestamp="1631849510673">
-      <screen x="-265" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1632303007354" />
+    <state width="1878" height="200" key="GridCell.Tab.0.left/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631859206179" />
+    <state width="1398" height="255" key="GridCell.Tab.0.left/39.0.1401.900@39.0.1401.900" timestamp="1632278777750" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1632303007356">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="265" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@-316.-1080.1920.1080" timestamp="1628328477851" />
     <state width="1398" height="264" key="GridCell.Tab.0.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1629022653404" />
-    <state width="1878" height="187" key="GridCell.Tab.0.right/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631849510673" />
+    <state width="1878" height="255" key="GridCell.Tab.0.right/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631945977037" />
     <state width="1398" height="309" key="GridCell.Tab.0.right/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1631791481830" />
-    <state width="1398" height="263" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1629901791888" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631237493076" />
-    <state width="1878" height="187" key="GridCell.Tab.1.bottom" timestamp="1631849510548">
-      <screen x="-265" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1632303007356" />
+    <state width="1878" height="200" key="GridCell.Tab.0.right/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631859206181" />
+    <state width="1398" height="255" key="GridCell.Tab.0.right/39.0.1401.900@39.0.1401.900" timestamp="1632278777753" />
+    <state width="1398" height="209" key="GridCell.Tab.1.bottom" timestamp="1632303007266">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="265" key="GridCell.Tab.1.bottom/-316.-1080.1920.1080/0.0.1440.900@-316.-1080.1920.1080" timestamp="1628328477689" />
     <state width="1398" height="264" key="GridCell.Tab.1.bottom/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1629022653409" />
-    <state width="1878" height="187" key="GridCell.Tab.1.bottom/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631849510548" />
+    <state width="1878" height="255" key="GridCell.Tab.1.bottom/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631945976950" />
     <state width="1398" height="309" key="GridCell.Tab.1.bottom/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1631791481836" />
-    <state width="1398" height="263" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1629901786072" />
-    <state width="1878" height="305" key="GridCell.Tab.1.bottom/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631237492904" />
-    <state width="1878" height="187" key="GridCell.Tab.1.center" timestamp="1631849510546">
-      <screen x="-265" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="209" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1632303007266" />
+    <state width="1878" height="200" key="GridCell.Tab.1.bottom/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631859206071" />
+    <state width="1398" height="255" key="GridCell.Tab.1.bottom/39.0.1401.900@39.0.1401.900" timestamp="1632278777539" />
+    <state width="1398" height="209" key="GridCell.Tab.1.center" timestamp="1632303007265">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="265" key="GridCell.Tab.1.center/-316.-1080.1920.1080/0.0.1440.900@-316.-1080.1920.1080" timestamp="1628328477687" />
     <state width="1398" height="264" key="GridCell.Tab.1.center/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1629022653407" />
-    <state width="1878" height="187" key="GridCell.Tab.1.center/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631849510546" />
+    <state width="1878" height="255" key="GridCell.Tab.1.center/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631945976949" />
     <state width="1398" height="309" key="GridCell.Tab.1.center/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1631791481834" />
-    <state width="1398" height="263" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1629901786071" />
-    <state width="1878" height="305" key="GridCell.Tab.1.center/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631237492902" />
-    <state width="1878" height="187" key="GridCell.Tab.1.left" timestamp="1631849510546">
-      <screen x="-265" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="209" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1632303007265" />
+    <state width="1878" height="200" key="GridCell.Tab.1.center/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631859206070" />
+    <state width="1398" height="255" key="GridCell.Tab.1.center/39.0.1401.900@39.0.1401.900" timestamp="1632278777537" />
+    <state width="1398" height="209" key="GridCell.Tab.1.left" timestamp="1632303007265">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="265" key="GridCell.Tab.1.left/-316.-1080.1920.1080/0.0.1440.900@-316.-1080.1920.1080" timestamp="1628328477687" />
     <state width="1398" height="264" key="GridCell.Tab.1.left/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1629022653406" />
-    <state width="1878" height="187" key="GridCell.Tab.1.left/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631849510546" />
+    <state width="1878" height="255" key="GridCell.Tab.1.left/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631945976948" />
     <state width="1398" height="309" key="GridCell.Tab.1.left/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1631791481833" />
-    <state width="1398" height="263" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1629901786070" />
-    <state width="1878" height="305" key="GridCell.Tab.1.left/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631237492897" />
-    <state width="1878" height="187" key="GridCell.Tab.1.right" timestamp="1631849510547">
-      <screen x="-265" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="209" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1632303007265" />
+    <state width="1878" height="200" key="GridCell.Tab.1.left/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631859206070" />
+    <state width="1398" height="255" key="GridCell.Tab.1.left/39.0.1401.900@39.0.1401.900" timestamp="1632278777537" />
+    <state width="1398" height="209" key="GridCell.Tab.1.right" timestamp="1632303007266">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1878" height="265" key="GridCell.Tab.1.right/-316.-1080.1920.1080/0.0.1440.900@-316.-1080.1920.1080" timestamp="1628328477688" />
     <state width="1398" height="264" key="GridCell.Tab.1.right/-316.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1629022653408" />
-    <state width="1878" height="187" key="GridCell.Tab.1.right/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631849510547" />
+    <state width="1878" height="255" key="GridCell.Tab.1.right/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631945976949" />
     <state width="1398" height="309" key="GridCell.Tab.1.right/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1631791481835" />
-    <state width="1398" height="263" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1629901786072" />
-    <state width="1878" height="305" key="GridCell.Tab.1.right/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631237492903" />
+    <state width="1398" height="209" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1632303007266" />
+    <state width="1878" height="200" key="GridCell.Tab.1.right/39.0.1401.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631859206071" />
+    <state width="1398" height="255" key="GridCell.Tab.1.right/39.0.1401.900@39.0.1401.900" timestamp="1632278777538" />
     <state x="448" y="-820" key="RollbackChangesDialog" timestamp="1628834842247">
       <screen x="-265" y="-1080" width="1920" height="1080" />
     </state>
@@ -330,6 +337,10 @@
       <screen x="-265" y="-1080" width="1920" height="1080" />
     </state>
     <state x="12" y="-1055" key="SettingsEditor/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1628155682692" />
+    <state x="-265" y="-1080" width="1920" height="1080" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631855914602">
+      <screen x="-265" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-265" y="-1080" width="1920" height="1080" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-265.-1080.1920.1080@-265.-1080.1920.1080" timestamp="1631855914602" />
     <state x="0" y="45" width="1441" height="863" maximized="true" key="dock-window-1" timestamp="1631178941558">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -385,5 +396,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm_szy$Code02_MinCoinsNoLimit.ic" NAME="Code02_MinCoinsNoLimit Coverage Results" MODIFIED="1631945524592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>algorithmbasic.class_22.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -10,7 +10,7 @@ public class Code03_SplitNumber {
 		if (n == 1) {
 			return 1;
 		}
-		return process(1, n);
+		return process(1, n-1);
 	}
 
 	// 上一个拆出来的数是pre
@@ -72,7 +72,7 @@ public class Code03_SplitNumber {
 				dp[pre][rest] += dp[pre][rest - pre];
 			}
 		}
-		return dp[1][n];
+		return dp[1][n-1];
 	}
 
 	public static void main(String[] args) {
