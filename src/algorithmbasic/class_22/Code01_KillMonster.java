@@ -98,6 +98,7 @@ public class Code01_KillMonster {
                 break;
             }
         }
+
         System.out.println("测试结束");
     }
 
